@@ -6,7 +6,7 @@ This project will provide additional information to the playwright Louise to hel
 The purpose of this project is to analyze how different campaigns fared in relation to their launch dates and their funding goals.   Specifically, looking at campaigns with a theater focus by month and campaigns with a play subcategory by range of funding goals.
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
-When looking specifically at the theater group, the most successful campaigns had launch dates in May and June.   With May having 111 successful campaigns (or 66.9%) and June following with 100 successful campaigns (or 65.4%).   
+When looking specifically at the theater group, the most successful campaigns had launch dates in May and June with May having 111 successful campaigns (or 66.9%) and June following with 100 successful campaigns (or 65.4%).   
 
 The least successful launch dates were in December and November.   With December having 35 failed campaigns (or 46.7%) and November following with 50 failed campaigns (or 43.5%).
 
