@@ -5,7 +5,6 @@ This project will provide additional information to the Playwright Louise to hel
 ### Purpose
 The purpose of this project is to analyze how different campaigns fared in relation to their launch dates and their funding goals.   Specifically, looking at campaigns with a theater focus by month and campaigns with a play subcategory by range of funding goals.
 ## Analysis and Challenges
-
 ### Analysis of Outcomes Based on Launch Date
 When looking specifically at the theater group, the most successful campaigns had launch dates in May and June.   With May having 111 successful campaigns (or 66.9%) and June following with 100 successful campaigns (or 65.4%).   
 
@@ -26,6 +25,7 @@ The analysis of the outcomes based on goals was performed specifically on the pl
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 The highest success rate tends to ramp up starting in April, peaking in May and slowly declining over the next two months.   To have the most success, Louise should launch her project during May.
 
 The lowest success rates tend to be at the end of the calendar year.   Louise should avoid launching her project at this time.  
