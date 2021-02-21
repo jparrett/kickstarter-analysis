@@ -26,7 +26,7 @@ The analysis of the outcomes based on goals was performed specifically on the pl
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-The highest success rate tends to ramp up starting in April, peaking in May and slowly declining over the next two months.   To have the most success, Louise should launch her project during May.
+The success rates tend to ramp up starting in April, peaking in May and slowly declining over the next two months.   To have the most success, Louise should launch her project during May.
 
 The lowest success rates tend to be at the end of the calendar year.   Louise should avoid launching her project at this time.  
 
@@ -36,9 +36,9 @@ Based on the data compiled, Louise would have the greatest possibility of succes
 
 - What are some limitations of this dataset?
 
-When limiting the data to plays, the number of data points decreased significantly once the goal was above 25,000.   Looking at the 40,000-44,999 range presents as very successful with a 67% success rate.   This is not a good measure since there were only 4 projects, versus the 141 projects in the less than 1,000 range.
+When limiting the data to plays, the number of data points decreased significantly once the goal was above 25,000.   Looking at the 40,000-44,999 range presents as very successful with a 67% success rate.   Since there were only 4 projects, versus the 141 projects in the less than 1,000 range this data can not be determined as reliable.
 
 - What are some other possible tables and/or graphs that we could create?
 
-When looking at the outcomes based on launch date, another table that would be helpful would be to see the percentage of successful and failed projects.   There is a variance in the number of projects listed by month and the percentage would be able to be used with the current graph to ensure this is not skewing the results.
+When looking at the outcomes based on launch date, another table that would be helpful would be to see the percentage of successful and failed projects.   There is a variance in the number of projects listed by month and the percentage would be able to be used with the current graph to ensure that the number of projects is not skewing the results.
 
