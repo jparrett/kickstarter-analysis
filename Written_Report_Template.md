@@ -1,9 +1,9 @@
-# Kickstarting with Excel
+# Analysis of Crowdfunding Campaigns
 
 ## Overview of Project
 This project will provide additional information to the Playwrite Louise to help to continue her crowdfunding success.
 ### Purpose
-The purpose of this project is to analyze how different campains fared in relation to their launch dates and their funding goals.   Specifically, looking at campains with a theater focus by month and campains with a play subcategory by range of funding goals.
+The purpose of this project is to analyze how different campaigns fared in relation to their launch dates and their funding goals.   Specifically, looking at campains with a theater focus by month and campains with a play subcategory by range of funding goals.
 
 ## Analysis and Challenges
 
