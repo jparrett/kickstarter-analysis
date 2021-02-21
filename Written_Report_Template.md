@@ -26,7 +26,7 @@ The analysis of the outcomes based on goals was performed specifically on the pl
   - The lowest success rates tend to be at the end of the calendar year.  Louise should avoid launching her project at this time.  
 
 - What can you conclude about the Outcomes based on Goals?
-  - Based on the data compiled, Louise would have the greatest possibility of success by keeping her goal at 4,999 or less.
+  - Based on the data compiled, Louise would have the greatest possibility of success by keeping her goal at $4,999 or less.
 
 - What are some limitations of this dataset?
   - When limiting the data to plays, the number of data points decreased significantly once the goal was above 25,000.  Looking at the 40,000-44,999 range presents as very successful with a 67% success rate.  Since there were only 4 projects, versus the 141 projects in the less than 1,000 range, this data can not be determined as reliable.
