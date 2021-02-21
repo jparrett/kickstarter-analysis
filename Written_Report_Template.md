@@ -22,8 +22,8 @@ The analysis of the outcomes based on goals was performed specifically on the pl
 
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
--- The success rates tend to ramp up starting in April, peaking in May and slowly declining over the next two months.  To have the most success, Louise should launch her project during May.
--- The lowest success rates tend to be at the end of the calendar year.  Louise should avoid launching her project at this time.  
+  - The success rates tend to ramp up starting in April, peaking in May and slowly declining over the next two months.  To have the most success, Louise should launch her project during May.
+  - The lowest success rates tend to be at the end of the calendar year.  Louise should avoid launching her project at this time.  
 
 - What can you conclude about the Outcomes based on Goals?
 Based on the data compiled, Louise would have the greatest possibility of success by keeping her goal at 4,999 or less.
