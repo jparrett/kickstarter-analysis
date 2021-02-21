@@ -12,7 +12,7 @@ When looking specifically at the theater group, the most successful campains had
 
 The least successful launch dates were in December and November.   With December having 35 failed campaigns (or 46.7%) and November following with 50 failed campaigns (or 43.5%).
 
-![Outcomes Based on Launch Date](/Resources/Theater Outcomes vs Launch.png)
+![Outcomes Based on Launch Date](/Resources/Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
