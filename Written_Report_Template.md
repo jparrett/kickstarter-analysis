@@ -1,7 +1,7 @@
 # Analysis of Crowdfunding Campaigns
 
 ## Overview of Project
-This project will provide additional information to the Playwright Louise to help to continue her crowdfunding success.
+This project will provide additional information to the playwright Louise to help continue her crowdfunding success.
 ### Purpose
 The purpose of this project is to analyze how different campaigns fared in relation to their launch dates and their funding goals.   Specifically, looking at campaigns with a theater focus by month and campaigns with a play subcategory by range of funding goals.
 ## Analysis and Challenges
