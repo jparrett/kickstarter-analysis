@@ -12,8 +12,13 @@ When looking specifically at the theater group, the most successful campains had
 
 The least successful launch dates were in December and November.   With December having 35 failed campaigns (or 46.7%) and November following with 50 failed campaigns (or 43.5%).
 
+[kickstarter-analysis/Resources/Outcomes_vs_Goals.svg]
+
+
 ### Analysis of Outcomes Based on Goals
 The analysis of the outcomes based on goals was performed specifically on the play subcategory.   When breaking down the project goals there is a clear trend that as the goal increases the percentage of positive projects decreases.    For example, projects less than 1,000 returned a success rate of 76% while projects between 5,000 and 9,999 only had a success rate of 55%.
+
+[kickstarter-analysis/Resources/Outcomes_vs_Goals.svg]
 
 ### Challenges and Difficulties Encountered
 
