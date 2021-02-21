@@ -11,9 +11,8 @@ The purpose of this project is to analyze how different campains fared in relati
 When looking specifically at the theater group, the most successful campains had launch dates in May and June.   With May having 111 successful campaigns (or 66.9%) and June following with 100 successful campaigns (or 65.4%).   
 
 The least successful launch dates were in December and November.   With December having 35 failed campaigns (or 46.7%) and November following with 50 failed campaigns (or 43.5%).
-![Outcomes Based on Launch Date](/Resources/Theater Outcomes vs Launch.png)
 
-https://github.com/jparrett/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png
+![Outcomes Based on Launch Date](/Resources/Theater Outcomes vs Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
